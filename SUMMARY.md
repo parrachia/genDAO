@@ -1,4 +1,7 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Hello!](README.md)
+* [Start Here](start-here.md)
+* [Reading list](reading-list.md)
+* [Give your feedback](give-your-feedback.md)
 
